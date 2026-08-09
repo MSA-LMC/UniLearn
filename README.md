@@ -75,6 +75,14 @@ If you find this work helpful, please consider citing:
 
 }
 
+@article{chen2026claip,
+  title={CLAIP-Emo: Parameter-Efficient Adaptation of Language-Supervised Models for In-the-Wild Audiovisual Emotion Recognition},
+  author={Chen, Yin and Li, Jia and Hu, Jinpeng and Hu, Zhenzhen and Hong, Richang},
+  journal={IEEE Signal Processing Letters},
+  year={2026},
+  publisher={IEEE}
+}
+
 
 ```
 
