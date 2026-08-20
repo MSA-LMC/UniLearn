@@ -7,6 +7,7 @@
 <img width="1024" height="506" alt="image" src="https://github.com/user-attachments/assets/db750330-84e2-4128-96c3-77c4a8fdc76c" />
 
 ## 📰 News
+**[2026.08.12]** 🎉🎉Our new paper [SSM](https://github.com/MSA-LMC/SSM) has been accepted by **IEEE Transactions on Affective Computing**! A novel Structured Semantic Mapping framework for bidirectional learning between Facial Action Units and Facial Expressions under heterogeneous datasets.
 
 **[2026.08.09]** 🎉🎉 Our new paper [CLAIP-Emo](https://github.com/MSA-LMC/CLAIP-Emo) has been accepted by **IEEE Signal Processing Letters**! A simple yet very powerful audiovisual emotion recognition framework utilizing CLIP and CLAP with lightweight fine-tuning.
 
